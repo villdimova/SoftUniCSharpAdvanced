@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FlowerWreaths", "01.FlowerWreaths\01.FlowerWreaths.csproj", "{8FFC1162-7263-4A8F-861A-23E24C6C9D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Bee", "02.Bee\02.Bee.csproj", "{81FA3DF2-4A92-41CA-9D80-FB4F3CDD047D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FFC1162-7263-4A8F-861A-23E24C6C9D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFC1162-7263-4A8F-861A-23E24C6C9D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFC1162-7263-4A8F-861A-23E24C6C9D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFC1162-7263-4A8F-861A-23E24C6C9D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FA3DF2-4A92-41CA-9D80-FB4F3CDD047D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FA3DF2-4A92-41CA-9D80-FB4F3CDD047D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FA3DF2-4A92-41CA-9D80-FB4F3CDD047D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FA3DF2-4A92-41CA-9D80-FB4F3CDD047D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5729E9-883E-4C81-ADBD-366788AE478E}
+	EndGlobalSection
+EndGlobal

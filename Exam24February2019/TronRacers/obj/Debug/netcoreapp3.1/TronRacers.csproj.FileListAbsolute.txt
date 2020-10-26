@@ -1,0 +1,13 @@
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.exe
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.deps.json
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.json
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.dev.json
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.dll
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.csprojAssemblyReference.cache
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfoInputs.cache
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfo.cs
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.dll
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Users\vill-pc\source\repos\Exam24February2019\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.genruntimeconfig.cache
