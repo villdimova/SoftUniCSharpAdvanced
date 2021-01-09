@@ -1,0 +1,13 @@
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\bin\Debug\netcoreapp3.1\Ranking.exe
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\bin\Debug\netcoreapp3.1\Ranking.deps.json
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.json
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.dev.json
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\bin\Debug\netcoreapp3.1\Ranking.dll
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\bin\Debug\netcoreapp3.1\Ranking.pdb
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfoInputs.cache
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfo.cs
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\obj\Debug\netcoreapp3.1\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\obj\Debug\netcoreapp3.1\Ranking.dll
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\obj\Debug\netcoreapp3.1\Ranking.pdb
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\obj\Debug\netcoreapp3.1\Ranking.genruntimeconfig.cache
+C:\Users\vill-pc\source\repos\Sets and Dictionaries Advanced Exercices\Ranking\obj\Debug\netcoreapp3.1\Ranking.csprojAssemblyReference.cache
