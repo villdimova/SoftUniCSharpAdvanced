@@ -1,0 +1,14 @@
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.exe
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.deps.json
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.runtimeconfig.json
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.runtimeconfig.dev.json
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.dll
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\bin\Debug\netcoreapp3.1\Problem 2. Line Numbers.pdb
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.csprojAssemblyReference.cache
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.AssemblyInfoInputs.cache
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.AssemblyInfo.cs
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.dll
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.pdb
+C:\Users\vill-pc\source\repos\Streams, Files and Directories-Exercices\Problem 2. Line Numbers\obj\Debug\netcoreapp3.1\Problem 2. Line Numbers.genruntimeconfig.cache
