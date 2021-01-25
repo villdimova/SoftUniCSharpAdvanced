@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\bin\Debug\netcoreapp3.1\FactorielWithRecursion.exe
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\bin\Debug\netcoreapp3.1\FactorielWithRecursion.deps.json
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\bin\Debug\netcoreapp3.1\FactorielWithRecursion.runtimeconfig.json
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\bin\Debug\netcoreapp3.1\FactorielWithRecursion.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\bin\Debug\netcoreapp3.1\FactorielWithRecursion.dll
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\bin\Debug\netcoreapp3.1\FactorielWithRecursion.pdb
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\obj\Debug\netcoreapp3.1\FactorielWithRecursion.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\obj\Debug\netcoreapp3.1\FactorielWithRecursion.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\obj\Debug\netcoreapp3.1\FactorielWithRecursion.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\obj\Debug\netcoreapp3.1\FactorielWithRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\obj\Debug\netcoreapp3.1\FactorielWithRecursion.dll
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\obj\Debug\netcoreapp3.1\FactorielWithRecursion.pdb
+C:\Users\Alex\source\repos\Recursion\FactorielWithRecursion\obj\Debug\netcoreapp3.1\FactorielWithRecursion.genruntimeconfig.cache
